@@ -1,2 +1,3 @@
-# feud-unicorn-graph
-A unicorn-hat graph for Feud's online player count
+# Feud Unicorn Graph
+
+A Unicorn HAT graph for Feud's online player count
